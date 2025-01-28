@@ -15,6 +15,10 @@
 5. Run `just install` to install the Python dependencies
 6. Check you can run dbt locally with `dbt --version`
 
+## Seeding the database with data
+
+1. Run `just seed` to seed the database with data
+
 ## Help, I've mucked something up
 
 Execute `just clean` to nuke things then restart setup steps from 2

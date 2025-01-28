@@ -35,5 +35,9 @@ models:
     example:
       +materialized: view
 
+seeds:
+  tech_challenge:
+    +schema: raw_data
+
 flags:
   send_anonymous_usage_stats: false
