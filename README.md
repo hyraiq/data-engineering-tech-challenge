@@ -14,3 +14,7 @@
 4. Run `source .venv/bin/activate` to activate the virtual environment
 5. Run `just install` to install the Python dependencies
 6. Check you can run dbt locally with `dbt --version`
+
+## Help, I've mucked something up
+
+Execute `just clean` to nuke things then restart setup steps from 2
