@@ -1,0 +1,7 @@
+id,organisation_id,name,number,client,total_value,is_sandbox,created_at
+db6145b7-a5bc-457c-bffd-6807b5536810,0392331d-70fa-4ac4-8b36-0d09aae6a2c1,Steven St Hotel,12875,Steven Balmer,"5,200,000",FALSE,2024-04-15 13:11:06
+3adb3aaa-d590-42ab-a4f9-6cce65ac89bb,0392331d-70fa-4ac4-8b36-0d09aae6a2c1,Sandbox,B874,Jack and Jill,"50,000,000",TRUE,2024-08-25 7:58:50
+54e61b1b-6232-4fb8-8403-4ef1635294f6,59cf985b-1125-4b6c-b725-55321b85c891,Sandbox,8CD123,Humpty Dumpty,"23,000,000",FALSE,2023-10-14 16:01:30
+1bfed8a9-38f7-4d70-b0e7-0d345977acd8,59cf985b-1125-4b6c-b725-55321b85c891,Great British Pub,PB452,Steven Balmer,"875,000",FALSE,2022-10-16 11:15:15
+08b39cb3-8dac-4ad6-b8db-d5b99387d464,0b5ee946-f92f-4ade-8c9b-43fcb7903b7f,Sandbox,9942,Jackson City Council,"1,530,000",TRUE,2023-09-01 15:48:50
+d3fa1461-3821-43e7-bf21-adb0d438e0ff,523430af-eabb-4461-8515-239a2bc5154c,Jackson Boulevard Redevopment,00487,Jackson City Council,"127,580,000",FALSE,2023-05-17 6:11:15

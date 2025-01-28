@@ -1,0 +1,163 @@
+id,created_at,updated_at,contacts,open
+8168ce88-626f-4190-8007-6a278cd06acd,2024-04-15 12:31:06,2024-04-15 13:11:06,"{
+  ""contacts"": [
+    {
+      ""id"": ""2c4b860a-2dc7-452a-8d4f-582d3407aab4"",
+      ""type"": ""contact""
+    }
+  ],
+  ""type"": ""contact.list""
+}",TRUE
+1afa1af2-b747-4f30-9d27-b5d8e08451c8,2024-08-25 7:35:50,2024-08-25 7:58:50,"{
+  ""contacts"": [
+    {
+      ""id"": ""7618dfe1-52f2-448d-a686-a808e598caad"",
+      ""type"": ""contact""
+    }
+  ],
+  ""type"": ""contact.list""
+}",TRUE
+89242b71-fe7d-4478-83e4-0e1cb26cb8e7,2023-10-14 15:46:30,2023-10-14 16:01:30,"{
+  ""contacts"": [
+    {
+      ""id"": ""7c97857b-7fa1-436b-b3da-0e1fa13c99c4"",
+      ""type"": ""contact""
+    }
+  ],
+  ""type"": ""contact.list""
+}",FALSE
+a0a32d27-9c2c-4ba3-84d7-bf2b6619ca66,2022-10-16 9:30:15,2022-10-16 11:15:15,"{
+  ""contacts"": [
+    {
+      ""id"": ""80372a1e-7a18-446c-9edc-948f69c58b9c"",
+      ""type"": ""contact""
+    }
+  ],
+  ""type"": ""contact.list""
+}",FALSE
+175079fc-d49a-423a-803b-55188644bd5e,2023-09-01 15:25:50,2023-09-01 15:48:50,"{
+  ""contacts"": [
+    {
+      ""id"": ""5d4192e7-0a32-4eee-a9c4-00d33099a7be"",
+      ""type"": ""contact""
+    }
+  ],
+  ""type"": ""contact.list""
+}",FALSE
+39572993-3b56-414d-837b-8da405eca704,2023-05-17 5:18:15,2023-05-17 6:11:15,"{
+  ""contacts"": [
+    {
+      ""id"": ""8ae40e5b-b036-4058-acab-9dbb0e0de941"",
+      ""type"": ""contact""
+    }
+  ],
+  ""type"": ""contact.list""
+}",FALSE
+aa05cf02-e116-491a-97ca-dac73540aeb7,2025-01-15 9:07:36,2025-01-15 9:45:36,"{
+  ""contacts"": [
+    {
+      ""id"": ""839521f0-f9b9-4d01-8d8f-a90f9704d5f8"",
+      ""type"": ""contact""
+    }
+  ],
+  ""type"": ""contact.list""
+}",TRUE
+c12f05f7-0f2d-4900-b2ab-2c06184e94da,2024-10-26 16:20:38,2024-10-26 18:24:38,"{
+  ""contacts"": [
+    {
+      ""id"": ""d1e18114-b0c8-4277-ba4d-0becd1f75432"",
+      ""type"": ""contact""
+    }
+  ],
+  ""type"": ""contact.list""
+}",FALSE
+3fc20f17-aacf-40bc-a6e3-414552a923ea,2024-06-18 23:02:58,2024-06-18 23:45:58,"{
+  ""contacts"": [
+    {
+      ""id"": ""2b0e12a0-4f0a-4670-a0fb-fad64316bf08"",
+      ""type"": ""contact""
+    }
+  ],
+  ""type"": ""contact.list""
+}",FALSE
+87c244e1-863d-4b07-b859-3f7512f5ac05,2024-04-15 8:55:06,2024-04-15 13:11:06,"{
+  ""contacts"": [
+    {
+      ""id"": ""2c4b860a-2dc7-452a-8d4f-582d3407aab4"",
+      ""type"": ""contact""
+    }
+  ],
+  ""type"": ""contact.list""
+}",FALSE
+d719a3bd-1797-457e-8193-21dac8f0efb3,2024-08-25 7:35:50,2024-08-25 7:58:50,"{
+  ""contacts"": [
+    {
+      ""id"": ""7618dfe1-52f2-448d-a686-a808e598caad"",
+      ""type"": ""contact""
+    }
+  ],
+  ""type"": ""contact.list""
+}",TRUE
+cf6f5b37-07d5-45ab-b93a-09d6f48e5279,2023-10-14 14:45:30,2023-10-14 16:01:30,"{
+  ""contacts"": [
+    {
+      ""id"": ""7c97857b-7fa1-436b-b3da-0e1fa13c99c4"",
+      ""type"": ""contact""
+    }
+  ],
+  ""type"": ""contact.list""
+}",TRUE
+3f15780a-8f7d-491c-bda2-ad0bcc4a0b4d,2022-10-16 2:13:15,2022-10-16 11:15:15,"{
+  ""contacts"": [
+    {
+      ""id"": ""80372a1e-7a18-446c-9edc-948f69c58b9c"",
+      ""type"": ""contact""
+    }
+  ],
+  ""type"": ""contact.list""
+}",FALSE
+029ba5e8-6134-43fc-8bd8-ec43a0c81e7c,2024-04-15 11:44:06,2024-04-15 13:11:06,"{
+  ""contacts"": [
+    {
+      ""id"": ""2c4b860a-2dc7-452a-8d4f-582d3407aab4"",
+      ""type"": ""contact""
+    }
+  ],
+  ""type"": ""contact.list""
+}",FALSE
+57a3025b-b538-43eb-9a8e-b1e695dd76bd,2024-08-25 7:37:50,2024-08-25 7:58:50,"{
+  ""contacts"": [
+    {
+      ""id"": ""7618dfe1-52f2-448d-a686-a808e598caad"",
+      ""type"": ""contact""
+    }
+  ],
+  ""type"": ""contact.list""
+}",FALSE
+5ac8a2e8-4c8d-4e0c-946f-e7c5ac82b35a,2023-10-14 15:18:30,2023-10-14 16:01:30,"{
+  ""contacts"": [
+    {
+      ""id"": ""7c97857b-7fa1-436b-b3da-0e1fa13c99c4"",
+      ""type"": ""contact""
+    }
+  ],
+  ""type"": ""contact.list""
+}",FALSE
+d69db390-e6f7-4028-a5d1-2334b70a3a9b,2022-10-16 10:12:15,2022-10-16 11:15:15,"{
+  ""contacts"": [
+    {
+      ""id"": ""80372a1e-7a18-446c-9edc-948f69c58b9c"",
+      ""type"": ""contact""
+    }
+  ],
+  ""type"": ""contact.list""
+}",TRUE
+3563745d-5595-4746-af12-0df371e90abe,2023-09-01 14:46:50,2023-09-01 15:48:50,"{
+  ""contacts"": [
+    {
+      ""id"": ""5d4192e7-0a32-4eee-a9c4-00d33099a7be"",
+      ""type"": ""contact""
+    }
+  ],
+  ""type"": ""contact.list""
+}",FALSE

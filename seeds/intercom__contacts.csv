@@ -1,0 +1,100 @@
+id,email,name,signed_up_at,last_seen_at,last_contacted_at,companies
+2c4b860a-2dc7-452a-8d4f-582d3407aab4,bevis.kimberlee@titangroup.com,Bevis Kimberlee,2024-04-15 13:11:06,2024-07-24 13:12:52,2024-04-15 13:11:06,"{
+  ""data"": [
+    {
+      ""id"": ""cedc9873-dd6f-4558-93e7-cde12a833210"",
+      ""type"": ""company""
+    }
+  ],
+  ""has_more"": false,
+  ""total_count"": 1,
+  ""type"": ""list""
+}"
+7618dfe1-52f2-448d-a686-a808e598caad,julia.franklin@archibald.com,Julia Franklin,2024-01-27 7:58:50,2024-09-05 8:09:31,2024-08-25 7:58:50,"{
+  ""data"": [
+    {
+      ""id"": ""515ce945-877c-4fab-8b24-f986db62f2df"",
+      ""type"": ""company""
+    }
+  ],
+  ""has_more"": false,
+  ""total_count"": 1,
+  ""type"": ""list""
+}"
+7c97857b-7fa1-436b-b3da-0e1fa13c99c4,malone.enid@constructionco.com,Malone Enid,2023-06-12 16:01:30,2024-06-04 16:14:35,2023-10-14 16:01:30,"{
+  ""data"": [
+    {
+      ""id"": ""1281ffa3-2b7b-4f41-bbc3-2ed84bd2f836"",
+      ""type"": ""company""
+    }
+  ],
+  ""has_more"": false,
+  ""total_count"": 1,
+  ""type"": ""list""
+}"
+80372a1e-7a18-446c-9edc-948f69c58b9c,greyson.kody@unibuild.com,Greyson Kody,2022-11-29 11:15:15,2023-02-15 11:29:34,2022-10-16 11:15:15,"{
+  ""data"": [
+    {
+      ""id"": ""0ef635fe-a83a-422c-987f-9560a78eb7dd"",
+      ""type"": ""company""
+    }
+  ],
+  ""has_more"": false,
+  ""total_count"": 1,
+  ""type"": ""list""
+}"
+5d4192e7-0a32-4eee-a9c4-00d33099a7be,stuart.tatyanna@industryone.com,Stuart Tatyanna,2023-08-20 15:48:50,2023-09-01 16:12:59,2023-09-01 15:48:50,"{
+  ""data"": [
+    {
+      ""id"": ""0d856868-c89b-4cd4-8837-b92608dca125"",
+      ""type"": ""company""
+    }
+  ],
+  ""has_more"": false,
+  ""total_count"": 1,
+  ""type"": ""list""
+}"
+8ae40e5b-b036-4058-acab-9dbb0e0de941,phyllis.ebba@industryone.com,Phyllis Ebba,2023-05-17 6:11:15,2023-07-11 6:35:19,2023-05-17 6:11:15,"{
+  ""data"": [
+    {
+      ""id"": ""0d856868-c89b-4cd4-8837-b92608dca125"",
+      ""type"": ""company""
+    }
+  ],
+  ""has_more"": false,
+  ""total_count"": 1,
+  ""type"": ""list""
+}"
+839521f0-f9b9-4d01-8d8f-a90f9704d5f8,amora.letitia@constructionco.com,Amora Letitia,2025-01-15 9:45:36,2025-01-16 9:47:43,2025-01-15 9:45:36,"{
+  ""data"": [
+    {
+      ""id"": ""1281ffa3-2b7b-4f41-bbc3-2ed84bd2f836"",
+      ""type"": ""company""
+    }
+  ],
+  ""has_more"": false,
+  ""total_count"": 1,
+  ""type"": ""list""
+}"
+d1e18114-b0c8-4277-ba4d-0becd1f75432,cletis.corynn@industryone.com,Cletis Corynn,2024-10-26 18:24:38,2024-11-18 18:49:01,2024-10-26 18:24:38,"{
+  ""data"": [
+    {
+      ""id"": ""0d856868-c89b-4cd4-8837-b92608dca125"",
+      ""type"": ""company""
+    }
+  ],
+  ""has_more"": false,
+  ""total_count"": 1,
+  ""type"": ""list""
+}"
+2b0e12a0-4f0a-4670-a0fb-fad64316bf08,adelia.jared@industryone.com,Adelia Jared,2024-06-18 23:45:58,2024-08-01 0:09:44,2024-06-18 23:45:58,"{
+  ""data"": [
+    {
+      ""id"": ""0d856868-c89b-4cd4-8837-b92608dca125"",
+      ""type"": ""company""
+    }
+  ],
+  ""has_more"": false,
+  ""total_count"": 1,
+  ""type"": ""list""
+}"
