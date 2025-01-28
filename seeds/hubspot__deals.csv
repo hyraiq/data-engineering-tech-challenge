@@ -1,0 +1,11 @@
+id,name,stage,amount,priority,lead_source,country,created_at
+8f57f334-2f80-426e-b107-638eb455cbfb,Matracon,9. Lost,48000,,Conference,New Zealand,2024-02-02 0:01:18
+56182bfa-e573-4479-9b8d-77d9d4070b93,Titan Group,9. Won,10000,,,Australia,2024-05-22 22:29:33
+c947c92e-374c-485e-98bd-0f3b3ecbd678,Unibuild,9. Won,89000,,Attended meeting,UK,2024-03-20 01:35:41
+853fd6f9-f561-4186-9570-36a424aa1a95,IndustryOne,9. Won,25000,,Website,Ireland,2024-02-01 22:49:25
+f385f205-6ba5-403a-97a0-8cfb3c0ca873,Riveworks,4. Executive decision,52000,High,,Ireland,2024-03-20 01:35:41
+f6dcc104-e4fa-4c70-b052-5023304e8c56,Next Level,5. Order form,41000,High,Outsourced lead gen,UK,2024-06-24 04:28:50
+31bd811d-a0f7-4647-aad2-493b63edb8c6,Hammerhead,3. Proposal,58000,Low,Conference,Australia,2024-04-24 04:28:50
+f438a012-2cf6-40c7-942f-45e462f6e32d,Urban Build,3. Proposal,81000,Low,,New Zealand,2024-02-08 22:49:25
+3c535f1f-5b58-4124-9c58-b2aab54d2099,Radium Projects,2. Exploring,37000,High,,UK,2024-11-22 22:29:33
+84bd457f-f9e2-4076-836a-58cb8c510b53,Earthmark,1. Qualifying,29000,Medium,Website,UK,2024-07-24 04:28:50

@@ -1,0 +1,38 @@
+version: 2
+models:
+  - name: stg_hubspot__deals
+    description: 'Hubspot deals'
+    columns:
+      - name: id
+        description: 'Deal id'
+        tests:
+          - not_null
+          - unique
+      - name: name
+        description: 'Deal name'
+        tests:
+          - not_null
+      - name: stage
+        description: 'Deal stage'
+        tests:
+          - not_null
+      - name: amount
+        description: 'Deal amount'
+        tests:
+          - not_null
+      - name: priority
+        description: 'Deal priority'
+        tests:
+          - accepted_values:
+              values: ['High', 'Medium', 'Low']
+      - name: lead_source
+        description: 'Where the lead came from'
+      - name: country
+        description: 'Country for the deal'
+        tests:
+          - accepted_values:
+              values: ['Australia', 'New Zealand', 'UK', 'Ireland']
+      - name: created_at
+        description: 'When the deal was created in Hubspot'
+        tests:
+          - not_null
