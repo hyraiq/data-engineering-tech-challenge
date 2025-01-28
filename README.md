@@ -19,6 +19,22 @@
 
 1. Run `just seed` to seed the database with data
 
+## Running dbt
+
+* `dbt run` will run the dbt models
+* `dbt test` will run the dbt tests
+* `dbt build` will do both
+
+## Using Metricflow
+
+* `mf --help` will show you the available commands
+* `mf validate-configs` will, unsurprisingly, validate the configs
+* `mf query` can be used to query metrics, grouping by etc
+  * e.g. `mf query --metrics deal_count,deal_median_amount --group-by deal__country` will return the deal count and
+    median deal amount grouped by country
+* `mf list metrics` will list the available metrics (also can list dimensions, dimension values and entities)
+
+
 ## Help, I've mucked something up
 
 Execute `just clean` to nuke things then restart setup steps from 2

@@ -1,0 +1,1 @@
+select * from {{ ref('hubspot__deals') }} as deals
