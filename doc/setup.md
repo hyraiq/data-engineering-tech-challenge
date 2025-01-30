@@ -4,9 +4,13 @@
 
 ## Requirements
 
+>⚠️ Big caveat, these commands have been tested using Mac OS primarily, so might not work perfectly on Windows, ymmv.
+
 * Docker
 * [pyenv](https://github.com/pyenv/pyenv#installation)
-* [just](https://github.com/casey/just) - optional, but makes life easier!
+* [just](https://github.com/casey/just)
+  * This is optional, it's a handy tool for running commands defined in the `justfile`
+  * If you don't want to install this, you can just look at the `justfile` and run the commands manually
 
 ## Setup
 
