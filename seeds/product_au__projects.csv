@@ -1,0 +1,13 @@
+id,organisation_id,name,number,client,total_value,is_sandbox,created_at
+f71d3ed6-967c-4404-81d9-712b5a832fd0,18ddbfda-a5bb-41c3-a77b-00e77f8177ce,Hilton Brisbane,1510,Hilton,"1,500,000",FALSE,2024-04-15 13:11:06
+2ed494f2-03ca-4a8b-9971-89cb4df086d0,18ddbfda-a5bb-41c3-a77b-00e77f8177ce,Sandbox,5555,Grandma,"999,999",TRUE,2024-01-27 7:58:50
+7f2e5d26-e8fd-454c-9822-a5767b28afa5,cac2ea20-794a-4e84-93c5-c6a6aaca5de0,Sandbox,A11,Green,"130,500",FALSE,2023-06-12 16:01:30
+e5acae12-7d39-48b5-a3cd-da2a94639f73,7b4e021f-14e9-4f86-946b-e4f3b8086b50,15 Lowry St,114T,Advent Capital,"535,000",FALSE,2022-11-29 11:15:15
+dba0e516-434a-474f-b7fc-1203af7cec50,7b4e021f-14e9-4f86-946b-e4f3b8086b50,Sandbox,CD1250,Larry,"120,000",TRUE,2023-08-20 15:48:50
+e3d74a0c-e4bd-402c-bf0e-7b00c87e0503,7b4e021f-14e9-4f86-946b-e4f3b8086b50,Lowlands School Redevlopment,CD3250,State government,"735,000",FALSE,2023-05-17 6:11:15
+867e50bb-b5a7-46bd-b30c-ab11d005d788,d023ab69-ebe7-4c99-849d-582ef40072e3,Sandbox,1875L,Steve,"300,000",TRUE,2025-01-15 9:45:36
+ef94cdf5-faa0-4f83-8cec-d0dab0054712,d023ab69-ebe7-4c99-849d-582ef40072e3,Spring Hill McDonalds,8729,McDonalds PTY LTD,"23,000,000",FALSE,2024-10-26 18:24:38
+6585759d-db52-4600-bfbc-8f4ecfcb070f,d023ab69-ebe7-4c99-849d-582ef40072e3,123 Green Tce,2934T,McConaghy Properties,"85,000,000",FALSE,2024-06-18 23:45:58
+02766e1f-ac0c-4995-aae7-5f9768a56241,554ff2c1-96b2-4c50-9634-945641a05700,Sandbox,00001,Henry's,"120,000,000",TRUE,2023-07-11 6:35:19
+cf542306-2d24-428f-8eb8-4b08dafc4547,554ff2c1-96b2-4c50-9634-945641a05700,Great Highschool Expansion,58TG0,State government,"345,000,000",FALSE,2025-01-16 9:47:43
+58e99803-3696-4246-a13f-9752b07258e6,d308d27c-fa34-4fb6-ae5d-a3184fd7716b,85 Sackville Street,HT1100,McConaghy Properties,"35,000,000",FALSE,2024-11-18 18:49:01
